@@ -1,0 +1,11 @@
+weight: 2
+title: "Sirkula Academy"
+description: >
+  <ul class="list-style-none">
+     <li>Research Methods</li>
+     <li>Data Science</li>
+     <li>Digital Marketing</li>
+     <li>Graphical Design</li>
+   </ul>
+image: "img/carousel/template-mac.png"
+href: "faq"
